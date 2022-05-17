@@ -24,10 +24,11 @@ A aplicação consiste em um painel de controle de vendas. Ele exibe a taxa de s
 - Spring Boot
 - JPA / Hibernate
 - Maven
-- ApexCharts
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
+- React Content Loader
+- ApexCharts
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
